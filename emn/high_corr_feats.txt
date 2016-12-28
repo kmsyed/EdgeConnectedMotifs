@@ -1,0 +1,341 @@
+
+Dropping 24 highly correlated features...
+ ['feat102' 'feat104' 'feat113' 'feat116' 'feat126' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat199' 'feat219' 'feat221'
+ 'feat228' 'feat41' 'feat50' 'feat54' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+100 twen 129 209
+--------------------------------------------------------------------------------------------
+
+Dropping 24 highly correlated features...
+ ['feat102' 'feat104' 'feat113' 'feat116' 'feat126' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat199' 'feat219' 'feat221'
+ 'feat228' 'feat41' 'feat50' 'feat54' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+100 threefive 129 209
+--------------------------------------------------------------------------------------------
+
+Dropping 24 highly correlated features...
+ ['feat102' 'feat104' 'feat113' 'feat116' 'feat126' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat199' 'feat219' 'feat221'
+ 'feat228' 'feat41' 'feat50' 'feat54' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+100 fifty 129 209
+--------------------------------------------------------------------------------------------
+
+Dropping 24 highly correlated features...
+ ['feat102' 'feat104' 'feat113' 'feat116' 'feat126' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat199' 'feat219' 'feat221'
+ 'feat228' 'feat41' 'feat50' 'feat54' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+100 sixty 129 209
+--------------------------------------------------------------------------------------------
+
+Dropping 24 highly correlated features...
+ ['feat102' 'feat104' 'feat113' 'feat116' 'feat126' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat199' 'feat219' 'feat221'
+ 'feat228' 'feat41' 'feat50' 'feat54' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+100 sevenfive 129 209
+--------------------------------------------------------------------------------------------
+
+Dropping 24 highly correlated features...
+ ['feat102' 'feat104' 'feat113' 'feat116' 'feat126' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat199' 'feat219' 'feat221'
+ 'feat228' 'feat41' 'feat50' 'feat54' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+100 nine 129 209
+--------------------------------------------------------------------------------------------
+#######################################################################################
+
+Dropping 44 highly correlated features...
+ ['feat102' 'feat104' 'feat109' 'feat113' 'feat116' 'feat126' 'feat134'
+ 'feat135' 'feat143' 'feat151' 'feat161' 'feat163' 'feat165' 'feat169'
+ 'feat171' 'feat172' 'feat180' 'feat188' 'feat19' 'feat196' 'feat197'
+ 'feat199' 'feat201' 'feat206' 'feat219' 'feat221' 'feat228' 'feat26'
+ 'feat34' 'feat36' 'feat39' 'feat41' 'feat48' 'feat49' 'feat50' 'feat60'
+ 'feat68' 'feat76' 'feat77' 'feat83' 'feat84' 'feat85' 'feat87' 'feat97']
+200 twen 238 189
+--------------------------------------------------------------------------------------------
+
+Dropping 44 highly correlated features...
+ ['feat102' 'feat104' 'feat109' 'feat113' 'feat116' 'feat126' 'feat134'
+ 'feat135' 'feat143' 'feat151' 'feat161' 'feat163' 'feat165' 'feat169'
+ 'feat171' 'feat172' 'feat180' 'feat188' 'feat19' 'feat196' 'feat197'
+ 'feat199' 'feat201' 'feat206' 'feat219' 'feat221' 'feat228' 'feat26'
+ 'feat34' 'feat36' 'feat39' 'feat41' 'feat48' 'feat49' 'feat50' 'feat60'
+ 'feat68' 'feat76' 'feat77' 'feat83' 'feat84' 'feat85' 'feat87' 'feat97']
+200 threefive 238 189
+--------------------------------------------------------------------------------------------
+
+Dropping 44 highly correlated features...
+ ['feat102' 'feat104' 'feat109' 'feat113' 'feat116' 'feat126' 'feat134'
+ 'feat135' 'feat143' 'feat151' 'feat161' 'feat163' 'feat165' 'feat169'
+ 'feat171' 'feat172' 'feat180' 'feat188' 'feat19' 'feat196' 'feat197'
+ 'feat199' 'feat201' 'feat206' 'feat219' 'feat221' 'feat228' 'feat26'
+ 'feat34' 'feat36' 'feat39' 'feat41' 'feat48' 'feat49' 'feat50' 'feat60'
+ 'feat68' 'feat76' 'feat77' 'feat83' 'feat84' 'feat85' 'feat87' 'feat97']
+200 fifty 238 189
+--------------------------------------------------------------------------------------------
+
+Dropping 44 highly correlated features...
+ ['feat102' 'feat104' 'feat109' 'feat113' 'feat116' 'feat126' 'feat134'
+ 'feat135' 'feat143' 'feat151' 'feat161' 'feat163' 'feat165' 'feat169'
+ 'feat171' 'feat172' 'feat180' 'feat188' 'feat19' 'feat196' 'feat197'
+ 'feat199' 'feat201' 'feat206' 'feat219' 'feat221' 'feat228' 'feat26'
+ 'feat34' 'feat36' 'feat39' 'feat41' 'feat48' 'feat49' 'feat50' 'feat60'
+ 'feat68' 'feat76' 'feat77' 'feat83' 'feat84' 'feat85' 'feat87' 'feat97']
+200 sixty 238 189
+--------------------------------------------------------------------------------------------
+
+Dropping 44 highly correlated features...
+ ['feat102' 'feat104' 'feat109' 'feat113' 'feat116' 'feat126' 'feat134'
+ 'feat135' 'feat143' 'feat151' 'feat161' 'feat163' 'feat165' 'feat169'
+ 'feat171' 'feat172' 'feat180' 'feat188' 'feat19' 'feat196' 'feat197'
+ 'feat199' 'feat201' 'feat206' 'feat219' 'feat221' 'feat228' 'feat26'
+ 'feat34' 'feat36' 'feat39' 'feat41' 'feat48' 'feat49' 'feat50' 'feat60'
+ 'feat68' 'feat76' 'feat77' 'feat83' 'feat84' 'feat85' 'feat87' 'feat97']
+200 sevenfive 238 189
+--------------------------------------------------------------------------------------------
+
+Dropping 44 highly correlated features...
+ ['feat102' 'feat104' 'feat109' 'feat113' 'feat116' 'feat126' 'feat134'
+ 'feat135' 'feat143' 'feat151' 'feat161' 'feat163' 'feat165' 'feat169'
+ 'feat171' 'feat172' 'feat180' 'feat188' 'feat19' 'feat196' 'feat197'
+ 'feat199' 'feat201' 'feat206' 'feat219' 'feat221' 'feat228' 'feat26'
+ 'feat34' 'feat36' 'feat39' 'feat41' 'feat48' 'feat49' 'feat50' 'feat60'
+ 'feat68' 'feat76' 'feat77' 'feat83' 'feat84' 'feat85' 'feat87' 'feat97']
+200 nine 238 189
+--------------------------------------------------------------------------------------------
+#######################################################################################
+
+Dropping 45 highly correlated features...
+ ['feat100' 'feat102' 'feat104' 'feat113' 'feat121' 'feat126' 'feat133'
+ 'feat134' 'feat135' 'feat15' 'feat151' 'feat161' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat183' 'feat188' 'feat19'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat21'
+ 'feat215' 'feat219' 'feat221' 'feat228' 'feat26' 'feat34' 'feat39'
+ 'feat41' 'feat47' 'feat48' 'feat50' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+300 twen 162 188
+--------------------------------------------------------------------------------------------
+
+Dropping 45 highly correlated features...
+ ['feat100' 'feat102' 'feat104' 'feat113' 'feat121' 'feat126' 'feat133'
+ 'feat134' 'feat135' 'feat15' 'feat151' 'feat161' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat183' 'feat188' 'feat19'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat21'
+ 'feat215' 'feat219' 'feat221' 'feat228' 'feat26' 'feat34' 'feat39'
+ 'feat41' 'feat47' 'feat48' 'feat50' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+300 threefive 162 188
+--------------------------------------------------------------------------------------------
+
+Dropping 45 highly correlated features...
+ ['feat100' 'feat102' 'feat104' 'feat113' 'feat121' 'feat126' 'feat133'
+ 'feat134' 'feat135' 'feat15' 'feat151' 'feat161' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat183' 'feat188' 'feat19'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat21'
+ 'feat215' 'feat219' 'feat221' 'feat228' 'feat26' 'feat34' 'feat39'
+ 'feat41' 'feat47' 'feat48' 'feat50' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+300 fifty 162 188
+--------------------------------------------------------------------------------------------
+
+Dropping 45 highly correlated features...
+ ['feat100' 'feat102' 'feat104' 'feat113' 'feat121' 'feat126' 'feat133'
+ 'feat134' 'feat135' 'feat15' 'feat151' 'feat161' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat183' 'feat188' 'feat19'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat21'
+ 'feat215' 'feat219' 'feat221' 'feat228' 'feat26' 'feat34' 'feat39'
+ 'feat41' 'feat47' 'feat48' 'feat50' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+300 sixty 162 188
+--------------------------------------------------------------------------------------------
+
+Dropping 45 highly correlated features...
+ ['feat100' 'feat102' 'feat104' 'feat113' 'feat121' 'feat126' 'feat133'
+ 'feat134' 'feat135' 'feat15' 'feat151' 'feat161' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat183' 'feat188' 'feat19'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat21'
+ 'feat215' 'feat219' 'feat221' 'feat228' 'feat26' 'feat34' 'feat39'
+ 'feat41' 'feat47' 'feat48' 'feat50' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+300 sevenfive 162 188
+--------------------------------------------------------------------------------------------
+
+Dropping 45 highly correlated features...
+ ['feat100' 'feat102' 'feat104' 'feat113' 'feat121' 'feat126' 'feat133'
+ 'feat134' 'feat135' 'feat15' 'feat151' 'feat161' 'feat163' 'feat165'
+ 'feat169' 'feat171' 'feat172' 'feat180' 'feat183' 'feat188' 'feat19'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat21'
+ 'feat215' 'feat219' 'feat221' 'feat228' 'feat26' 'feat34' 'feat39'
+ 'feat41' 'feat47' 'feat48' 'feat50' 'feat68' 'feat76' 'feat77' 'feat83'
+ 'feat85' 'feat97']
+300 nine 162 188
+--------------------------------------------------------------------------------------------
+#######################################################################################
+
+Dropping 46 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat109' 'feat113' 'feat121' 'feat126'
+ 'feat133' 'feat134' 'feat135' 'feat147' 'feat15' 'feat161' 'feat163'
+ 'feat165' 'feat169' 'feat17' 'feat171' 'feat172' 'feat180' 'feat183'
+ 'feat185' 'feat188' 'feat196' 'feat197' 'feat199' 'feat201' 'feat204'
+ 'feat206' 'feat215' 'feat219' 'feat221' 'feat228' 'feat25' 'feat26'
+ 'feat34' 'feat41' 'feat48' 'feat50' 'feat60' 'feat76' 'feat77' 'feat78'
+ 'feat83' 'feat85' 'feat97']
+400 twen 167 187
+--------------------------------------------------------------------------------------------
+
+Dropping 46 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat109' 'feat113' 'feat121' 'feat126'
+ 'feat133' 'feat134' 'feat135' 'feat147' 'feat15' 'feat161' 'feat163'
+ 'feat165' 'feat169' 'feat17' 'feat171' 'feat172' 'feat180' 'feat183'
+ 'feat185' 'feat188' 'feat196' 'feat197' 'feat199' 'feat201' 'feat204'
+ 'feat206' 'feat215' 'feat219' 'feat221' 'feat228' 'feat25' 'feat26'
+ 'feat34' 'feat41' 'feat48' 'feat50' 'feat60' 'feat76' 'feat77' 'feat78'
+ 'feat83' 'feat85' 'feat97']
+400 threefive 167 187
+--------------------------------------------------------------------------------------------
+
+Dropping 46 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat109' 'feat113' 'feat121' 'feat126'
+ 'feat133' 'feat134' 'feat135' 'feat147' 'feat15' 'feat161' 'feat163'
+ 'feat165' 'feat169' 'feat17' 'feat171' 'feat172' 'feat180' 'feat183'
+ 'feat185' 'feat188' 'feat196' 'feat197' 'feat199' 'feat201' 'feat204'
+ 'feat206' 'feat215' 'feat219' 'feat221' 'feat228' 'feat25' 'feat26'
+ 'feat34' 'feat41' 'feat48' 'feat50' 'feat60' 'feat76' 'feat77' 'feat78'
+ 'feat83' 'feat85' 'feat97']
+400 fifty 167 187
+--------------------------------------------------------------------------------------------
+
+Dropping 46 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat109' 'feat113' 'feat121' 'feat126'
+ 'feat133' 'feat134' 'feat135' 'feat147' 'feat15' 'feat161' 'feat163'
+ 'feat165' 'feat169' 'feat17' 'feat171' 'feat172' 'feat180' 'feat183'
+ 'feat185' 'feat188' 'feat196' 'feat197' 'feat199' 'feat201' 'feat204'
+ 'feat206' 'feat215' 'feat219' 'feat221' 'feat228' 'feat25' 'feat26'
+ 'feat34' 'feat41' 'feat48' 'feat50' 'feat60' 'feat76' 'feat77' 'feat78'
+ 'feat83' 'feat85' 'feat97']
+400 sixty 167 187
+--------------------------------------------------------------------------------------------
+
+Dropping 46 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat109' 'feat113' 'feat121' 'feat126'
+ 'feat133' 'feat134' 'feat135' 'feat147' 'feat15' 'feat161' 'feat163'
+ 'feat165' 'feat169' 'feat17' 'feat171' 'feat172' 'feat180' 'feat183'
+ 'feat185' 'feat188' 'feat196' 'feat197' 'feat199' 'feat201' 'feat204'
+ 'feat206' 'feat215' 'feat219' 'feat221' 'feat228' 'feat25' 'feat26'
+ 'feat34' 'feat41' 'feat48' 'feat50' 'feat60' 'feat76' 'feat77' 'feat78'
+ 'feat83' 'feat85' 'feat97']
+400 sevenfive 167 187
+--------------------------------------------------------------------------------------------
+
+Dropping 46 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat109' 'feat113' 'feat121' 'feat126'
+ 'feat133' 'feat134' 'feat135' 'feat147' 'feat15' 'feat161' 'feat163'
+ 'feat165' 'feat169' 'feat17' 'feat171' 'feat172' 'feat180' 'feat183'
+ 'feat185' 'feat188' 'feat196' 'feat197' 'feat199' 'feat201' 'feat204'
+ 'feat206' 'feat215' 'feat219' 'feat221' 'feat228' 'feat25' 'feat26'
+ 'feat34' 'feat41' 'feat48' 'feat50' 'feat60' 'feat76' 'feat77' 'feat78'
+ 'feat83' 'feat85' 'feat97']
+400 nine 167 187
+--------------------------------------------------------------------------------------------
+#######################################################################################
+
+Dropping 81 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat110' 'feat111' 'feat114' 'feat116'
+ 'feat117' 'feat125' 'feat126' 'feat131' 'feat133' 'feat134' 'feat135'
+ 'feat140' 'feat143' 'feat145' 'feat147' 'feat161' 'feat163' 'feat165'
+ 'feat166' 'feat170' 'feat171' 'feat172' 'feat179' 'feat180' 'feat183'
+ 'feat184' 'feat185' 'feat186' 'feat188' 'feat189' 'feat194' 'feat195'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat207'
+ 'feat209' 'feat211' 'feat212' 'feat213' 'feat214' 'feat215' 'feat218'
+ 'feat219' 'feat221' 'feat222' 'feat223' 'feat230' 'feat231' 'feat25'
+ 'feat34' 'feat35' 'feat39' 'feat41' 'feat46' 'feat47' 'feat48' 'feat50'
+ 'feat57' 'feat63' 'feat65' 'feat68' 'feat74' 'feat76' 'feat78' 'feat79'
+ 'feat80' 'feat82' 'feat83' 'feat86' 'feat87' 'feat88' 'feat89' 'feat92'
+ 'feat97']
+500 twen 156 152
+--------------------------------------------------------------------------------------------
+
+Dropping 81 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat110' 'feat111' 'feat114' 'feat116'
+ 'feat117' 'feat125' 'feat126' 'feat131' 'feat133' 'feat134' 'feat135'
+ 'feat140' 'feat143' 'feat145' 'feat147' 'feat161' 'feat163' 'feat165'
+ 'feat166' 'feat170' 'feat171' 'feat172' 'feat179' 'feat180' 'feat183'
+ 'feat184' 'feat185' 'feat186' 'feat188' 'feat189' 'feat194' 'feat195'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat207'
+ 'feat209' 'feat211' 'feat212' 'feat213' 'feat214' 'feat215' 'feat218'
+ 'feat219' 'feat221' 'feat222' 'feat223' 'feat230' 'feat231' 'feat25'
+ 'feat34' 'feat35' 'feat39' 'feat41' 'feat46' 'feat47' 'feat48' 'feat50'
+ 'feat57' 'feat63' 'feat65' 'feat68' 'feat74' 'feat76' 'feat78' 'feat79'
+ 'feat80' 'feat82' 'feat83' 'feat86' 'feat87' 'feat88' 'feat89' 'feat92'
+ 'feat97']
+500 threefive 156 152
+--------------------------------------------------------------------------------------------
+
+Dropping 81 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat110' 'feat111' 'feat114' 'feat116'
+ 'feat117' 'feat125' 'feat126' 'feat131' 'feat133' 'feat134' 'feat135'
+ 'feat140' 'feat143' 'feat145' 'feat147' 'feat161' 'feat163' 'feat165'
+ 'feat166' 'feat170' 'feat171' 'feat172' 'feat179' 'feat180' 'feat183'
+ 'feat184' 'feat185' 'feat186' 'feat188' 'feat189' 'feat194' 'feat195'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat207'
+ 'feat209' 'feat211' 'feat212' 'feat213' 'feat214' 'feat215' 'feat218'
+ 'feat219' 'feat221' 'feat222' 'feat223' 'feat230' 'feat231' 'feat25'
+ 'feat34' 'feat35' 'feat39' 'feat41' 'feat46' 'feat47' 'feat48' 'feat50'
+ 'feat57' 'feat63' 'feat65' 'feat68' 'feat74' 'feat76' 'feat78' 'feat79'
+ 'feat80' 'feat82' 'feat83' 'feat86' 'feat87' 'feat88' 'feat89' 'feat92'
+ 'feat97']
+500 fifty 156 152
+--------------------------------------------------------------------------------------------
+
+Dropping 81 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat110' 'feat111' 'feat114' 'feat116'
+ 'feat117' 'feat125' 'feat126' 'feat131' 'feat133' 'feat134' 'feat135'
+ 'feat140' 'feat143' 'feat145' 'feat147' 'feat161' 'feat163' 'feat165'
+ 'feat166' 'feat170' 'feat171' 'feat172' 'feat179' 'feat180' 'feat183'
+ 'feat184' 'feat185' 'feat186' 'feat188' 'feat189' 'feat194' 'feat195'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat207'
+ 'feat209' 'feat211' 'feat212' 'feat213' 'feat214' 'feat215' 'feat218'
+ 'feat219' 'feat221' 'feat222' 'feat223' 'feat230' 'feat231' 'feat25'
+ 'feat34' 'feat35' 'feat39' 'feat41' 'feat46' 'feat47' 'feat48' 'feat50'
+ 'feat57' 'feat63' 'feat65' 'feat68' 'feat74' 'feat76' 'feat78' 'feat79'
+ 'feat80' 'feat82' 'feat83' 'feat86' 'feat87' 'feat88' 'feat89' 'feat92'
+ 'feat97']
+500 sixty 156 152
+--------------------------------------------------------------------------------------------
+
+Dropping 81 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat110' 'feat111' 'feat114' 'feat116'
+ 'feat117' 'feat125' 'feat126' 'feat131' 'feat133' 'feat134' 'feat135'
+ 'feat140' 'feat143' 'feat145' 'feat147' 'feat161' 'feat163' 'feat165'
+ 'feat166' 'feat170' 'feat171' 'feat172' 'feat179' 'feat180' 'feat183'
+ 'feat184' 'feat185' 'feat186' 'feat188' 'feat189' 'feat194' 'feat195'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat207'
+ 'feat209' 'feat211' 'feat212' 'feat213' 'feat214' 'feat215' 'feat218'
+ 'feat219' 'feat221' 'feat222' 'feat223' 'feat230' 'feat231' 'feat25'
+ 'feat34' 'feat35' 'feat39' 'feat41' 'feat46' 'feat47' 'feat48' 'feat50'
+ 'feat57' 'feat63' 'feat65' 'feat68' 'feat74' 'feat76' 'feat78' 'feat79'
+ 'feat80' 'feat82' 'feat83' 'feat86' 'feat87' 'feat88' 'feat89' 'feat92'
+ 'feat97']
+500 sevenfive 156 152
+--------------------------------------------------------------------------------------------
+
+Dropping 81 highly correlated features...
+ ['feat10' 'feat100' 'feat102' 'feat110' 'feat111' 'feat114' 'feat116'
+ 'feat117' 'feat125' 'feat126' 'feat131' 'feat133' 'feat134' 'feat135'
+ 'feat140' 'feat143' 'feat145' 'feat147' 'feat161' 'feat163' 'feat165'
+ 'feat166' 'feat170' 'feat171' 'feat172' 'feat179' 'feat180' 'feat183'
+ 'feat184' 'feat185' 'feat186' 'feat188' 'feat189' 'feat194' 'feat195'
+ 'feat196' 'feat197' 'feat199' 'feat201' 'feat204' 'feat206' 'feat207'
+ 'feat209' 'feat211' 'feat212' 'feat213' 'feat214' 'feat215' 'feat218'
+ 'feat219' 'feat221' 'feat222' 'feat223' 'feat230' 'feat231' 'feat25'
+ 'feat34' 'feat35' 'feat39' 'feat41' 'feat46' 'feat47' 'feat48' 'feat50'
+ 'feat57' 'feat63' 'feat65' 'feat68' 'feat74' 'feat76' 'feat78' 'feat79'
+ 'feat80' 'feat82' 'feat83' 'feat86' 'feat87' 'feat88' 'feat89' 'feat92'
+ 'feat97']
+500 nine 156 152
+--------------------------------------------------------------------------------------------
+#######################################################################################
