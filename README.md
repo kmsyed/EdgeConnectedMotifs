@@ -6,4 +6,4 @@ Two FFLs can be connected in 233 different ways. We are studying the importance 
 
 
 
-[Web-link](https://syedkm.github.io/EdgeConnectedMotifs/)
+[Go to project Web-link](https://syedkm.github.io/EdgeConnectedMotifs/)
