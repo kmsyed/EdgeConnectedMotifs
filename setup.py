@@ -16,7 +16,7 @@ setup(
     long_description=readme,
     author='Moinuddin K Syed',
     author_email='lnusk@vcu.com',
-    url='https://github.com/syedkm/VMN',
+    url='https://github.com/syedkm/EdgeConnectedMotifs',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
